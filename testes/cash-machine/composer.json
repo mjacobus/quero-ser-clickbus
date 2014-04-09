@@ -1,0 +1,17 @@
+{
+    "name": "mj/cash-machine",
+    "description": "For getting money!",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marcelo Jacobus",
+            "email": "marcelo.jacobus@gmail.com"
+        }
+    ],
+    "require": {
+        "php-objects/php-objects": "dev-master"
+    },
+    "require-dev": {
+        "phpunit/PHPUnit": "3.7.*"
+    }
+}
